@@ -79,8 +79,8 @@
 | [**RWTH-BOSTON-104**](http://www-i6.informatik.rwth-aachen.de/aslr/database-rwth-boston-104.php) | American    | 104     | 201     | Videos(multiple angles)      | continuous     |
 | [**WLASL**](https://dxli94.github.io/WLASL/)                 | American    | 2,000   | 21,083  | Videos                       | isolated       |
 | [**NIASL2021**](https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&searchKeyword=%EC%88%98%EC%96%B4%EB%B2%88%EC%97%AD&aihubDataSe=data&dataSetSn=103)                 | Korean    | 6,000   | 536,000  | Videos                       | mixed      |
-| [**NIASLG1?**](https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&searchKeyword=%EC%88%98%EC%96%B4%EB%B2%88%EC%97%AD&aihubDataSe=data&dataSetSn=636)                 | Korean    | 164,375   | 201,026  | Videos                       | continuous       |
+| [**NIASLG1**](https://aihub.or.kr/aihubdata/data/view.do?pageIndex=1&currMenu=115&topMenu=100&srchOptnCnd=OPTNCND001&srchDetailCnd=DETAILCND001&srchOrder=ORDER001&srchPagePer=20&searchKeyword=%EC%88%98%EC%96%B4%EB%B2%88%EC%97%AD&aihubDataSe=data&dataSetSn=636)                 | Korean    | 164,375   | 201,026  | Videos                       | continuous       |
 | [**AUTSL**](https://cvml.ankara.edu.tr/datasets/)            | Turkish     | 226     | 38,336    | Videos & Depth from Kinect  | isolated |
 
 ## Summary
-- **[Table of results](https://docs.google.com/spreadsheets/d/1GMigSrAvbKFR-B0k2Yud1iNjaEvC-MK_sDVotKH0x-M/edit?usp=sharing)**
+- **[Table of results](https://docs.google.com/spreadsheets/d/1f13CcIfL5yeix0y4V9zsm6BcErOG8zN7bMymXX_lBT8/edit?usp=sharing)**
